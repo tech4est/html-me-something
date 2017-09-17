@@ -466,3 +466,9 @@
   footer{
     text-align: center;
   }
+  li{
+    padding-bottom: .75em;
+  }
+  img {
+    border: 1px solid #999999;
+  }
